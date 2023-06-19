@@ -18,11 +18,14 @@ Coming Soon
 
 ## Wireframes
 
-Coming Soon
+#### Desktop
+![Desktop](./client/public/images/desktop_wireframes.png)
 
-## Figma Design
+## Figma Prototypes
 
-Coming Soon
+#### Desktop
+![Desktop](./client/public/images/desktop_prototypes.png)
+
 
 ## UML Design
 
